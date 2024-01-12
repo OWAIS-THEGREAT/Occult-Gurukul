@@ -9,27 +9,30 @@ Guru Occult is an Android app designed for numerology enthusiasts to discover th
 - Users can securely log in or sign up using the app.
 - Firebase backend is integrated for authentication and registration.
 - Screens provide a user-friendly experience.
+- <img src="Assests/Login.jpg" alt="Main Activity" width="400"/>                   <img src="Assests/Register.jpg" alt="Main Activity" width="400"/>
+
 
 ### Main Activity:
 
 - The main activity offers three options: Life Path Number, Expression Number, and Personality Number.
 - Users can navigate to their preferred numerology calculation by selecting the corresponding option.
-- [Main Activity](path/to/main_activity_image.jpg) provides a glimpse of the available choices.
+- <img src="Assests/Main_Activity.jpg" alt="Main Activity" width="400"/>
+ provides a glimpse of the available choices.
 
 ### Life Path Number:
 
 - Users enter their birthdate to calculate their life path number.
-- ![Life Path Number](path/to/life_path_number_images.jpg) displays the calculated number along with a detailed description.
+- <img src="Assests/DatePicker.jpg" alt="Main Activity" width="400"/> <img src="Assests/Lifepath.jpg" alt="Main Activity" width="400"/>displays the calculated number along with a detailed description.
 
 ### Expression Number:
 
 - Users input their name to calculate their expression number.
-- ![Expression Number](path/to/expression_number_images.jpg) shows the calculated number with an accompanying description.
+- <img src="Assests/Name.jpg" alt="Main Activity" width="400"/> <img src="Assests/Expression.jpg" alt="Main Activity" width="400"/>shows the calculated number with an accompanying description.
 
 ### Personality Number:
 
 - Similar to the expression number, users enter their name to calculate their personality number.
-- ![Personality Number](path/to/personality_number_images.jpg) reveals the calculated number and its detailed description.
+- <img src="Assests/Name.jpg" alt="Main Activity" width="400"/> <img src="Assests/Personality.jpg" alt="Main Activity" width="400"/>reveals the calculated number and its detailed description.
 
 ## Getting Started
 
