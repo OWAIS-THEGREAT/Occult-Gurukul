@@ -1,6 +1,7 @@
 # Guru Occult - Numerology Calculator
 
 Guru Occult is an Android app designed for numerology enthusiasts to discover their life path number, expression number, and personality number. The app provides a seamless experience with features like authentication, registration, and interactive numerology calculations.
+<img src="Assests/Splash Screen.jpg" alt="Main Activity" width="400"/>
 
 ## Features
 
