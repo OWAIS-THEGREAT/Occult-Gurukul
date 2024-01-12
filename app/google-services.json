@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631749968357",
+    "project_id": "astro-2e6c0",
+    "storage_bucket": "astro-2e6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631749968357:android:5ac7cff804f89f38f26f0c",
+        "android_client_info": {
+          "package_name": "com.example.astro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08wJXD8t_AovI0rKjf4QEjhKjA_xMA9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
